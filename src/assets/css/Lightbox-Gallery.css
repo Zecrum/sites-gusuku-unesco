@@ -1,0 +1,81 @@
+.photo-gallery {
+  background-color: #313437;
+  background-color: #fff;
+}
+
+.photo-gallery p {
+  color: #feffff;
+}
+
+.photo-gallery h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .photo-gallery h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.photo-gallery .intro {
+  font-size: 16px;
+  max-width: 500px;
+  margin: 0 auto 40px;
+}
+
+.photo-gallery .intro p {
+  margin-bottom: 0;
+}
+
+.photo-gallery .photos {
+  padding-bottom: 20px;
+}
+
+.photo-gallery .item {
+  padding-bottom: 30px;
+}
+
+.fontTitre + {
+}
+
+.fontTitre {
+}
+
+.textVisiter {
+}
+
+.test {
+  background-color: #f7af3e;
+  text-align: center;
+  font-size: 24px;
+}
+
+.imgAlerteMonnaie {
+  width: 5%;
+}
+
+.btn.btn-outline-primary.btn-lg.btnPlusImage {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.btn.btn-primary.btn-sm.nav-button {
+  margin-right: 1rem;
+}
+
+.alert.alert-danger.alert-dismissible.monnaie {
+  margin: 10px 50px 20px 50px;
+}
+
+.form {
+  text-align: center;
+}
+
+.titre2 {
+  background-image: url(;
+}
+

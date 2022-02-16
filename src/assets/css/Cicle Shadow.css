@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Cicle Shadow';
+	src: url(../../assets/fonts/CicleShadow.woff2) format('woff2'),
+	url(../../assets/fonts/CicleShadow.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

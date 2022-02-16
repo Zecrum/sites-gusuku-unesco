@@ -1,0 +1,15 @@
+@font-face {
+	font-family: 'Cicle Semi';
+	src: url(../../assets/fonts/CicleSemi.woff2) format('woff2'),
+	url(../../assets/fonts/CicleSemi.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Cicle Semi';
+	src: url(../../assets/fonts/CicleSemiItalic.woff2) format('woff2'),
+	url(../../assets/fonts/CicleSemiItalic.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+}

@@ -1,0 +1,23 @@
+@font-face {
+	font-family: 'Cicle';
+	src: url(../../assets/fonts/CicleFina.woff2) format('woff2'),
+	url(../../assets/fonts/CicleFina.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Cicle';
+	src: url(../../assets/fonts/CicleFinaItalic.woff2) format('woff2'),
+	url(../../assets/fonts/CicleFinaItalic.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: 'Cicle';
+	src: url(../../assets/fonts/CicleGorditaItalic.woff2) format('woff2'),
+	url(../../assets/fonts/CicleGorditaItalic.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+}
